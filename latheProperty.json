@@ -1,0 +1,45 @@
+{
+  "name": "lathe",
+  "devices": [
+    {
+      "transformID": "n47",
+      "initialPosition": 0,
+      "name": "Door",
+      "maxPosition": 0.95,
+      "position": 0,
+      "type": "LinearMotor",
+      "minPosition": 0,
+      "axis": "1 0 0"
+    },
+    {
+      "transformID": "n106",
+      "initialPosition": 0,
+      "name": "Spindle",
+      "maxPosition": 3.1415,
+      "position": 0,
+      "type": "RotationalMotor",
+      "minPosition": -3.1415,
+      "axis": "0 0 1 "
+    },
+    {
+      "transformID": "n94",
+      "initialPosition": 0,
+      "name": "Xaxis",
+      "maxPosition": 0.15662,
+      "position": 0,
+      "type": "LinearMotor",
+      "minPosition": -0.082382,
+      "axis": "-0.000004 1.000000 0.000000"
+    },
+    {
+      "transformID": "n85",
+      "initialPosition": 0,
+      "name": "Zaxis",
+      "maxPosition": 0,
+      "position": 0,
+      "type": "LinearMotor",
+      "minPosition": -0.7,
+      "axis": "-1 0 0"
+    }
+  ]
+}

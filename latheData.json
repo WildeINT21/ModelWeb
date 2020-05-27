@@ -1,0 +1,18 @@
+[
+  {
+    "device": "Door",
+    "value": 0.6
+  },
+  {
+    "device": "Spindle",
+    "value": 0.8
+  },
+  {
+    "device": "Zaxis",
+    "value": 0.01
+  },
+  {
+    "device": "Xaxis",
+    "value": -0.1
+  }
+]
